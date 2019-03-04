@@ -23,6 +23,7 @@
     "webpack-dev-server": "^3.1.8"
   },
   "dependencies": {
+    "fusioncharts": "^3.13.4",
     "react": "^16.8.3",
     "react-dom": "^16.8.3"
   }
